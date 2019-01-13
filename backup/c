@@ -1,0 +1,11 @@
+mkdir Bread
+mkdir DairyProduct
+mkdir Dessert
+mkdir Egg
+mkdir Friedfood
+mkdir Meat
+mkdir Noodles-Pasta
+mkdir Rice
+mkdir Seafood
+mkdir Soup
+mkdir Vegetable-Fruit
