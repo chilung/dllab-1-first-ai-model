@@ -1,0 +1,11 @@
+mv 0_*.jpg Bread
+mv 1_*.jpg DairyProduct
+mv 2_*.jpg Dessert
+mv 3_*.jpg Egg
+mv 4_*.jpg Friedfood
+mv 5_*.jpg Meat
+mv 6_*.jpg Noodles-Pasta
+mv 7_*.jpg Rice
+mv 8_*.jpg Seafood
+mv 9_*.jpg Soup
+mv 10_*.jpg Vegetable-Fruit
